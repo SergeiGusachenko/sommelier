@@ -1,2 +1,2 @@
 # sommelier
-Introduction to ML
+Elementary Machine Learning Project
